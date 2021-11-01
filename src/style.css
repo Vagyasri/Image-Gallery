@@ -1,3 +1,4 @@
+
 .img1 { background: url('https://bit.ly/3mvWuid'); }
 .img2 { background: url('https://bit.ly/2ZHJY70'); }
 .img3 { background: url('https://bit.ly/3Cvegb4'); }
@@ -8,3 +9,7 @@
 .img8 { background: url('https://bit.ly/3BzG0da'); }
 .img9 { background: url('https://bit.ly/3ByBb42'); }
 .img10 { background: url('https://bit.ly/3jQko6s'); }
+
+p {
+  text-transform: capitalize;
+}
