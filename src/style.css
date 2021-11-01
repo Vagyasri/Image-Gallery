@@ -20,6 +20,10 @@ p {
   justify-content: center;
 }
 
+p:nth-child(2) {
+  font-size: 2rem;
+}
+
 .gallery {
   display: flex;
   height: 100vh;
