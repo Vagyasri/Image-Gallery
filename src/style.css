@@ -18,6 +18,9 @@ p {
   text-transform: uppercase;
   color: white;
   justify-content: center;
+  align-items: center;
+  height: 30vh;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
 }
 
 p:nth-child(2) {
