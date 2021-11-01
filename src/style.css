@@ -1,6 +1,6 @@
 
 .img1 { background: url('https://bit.ly/3mvWuid'); }
-.img2 { background: url('https://bit.ly/2ZHJY70'); }
+.img2 { background: url('https://bit.ly/3my3L1h'); }
 .img3 { background: url('https://bit.ly/3Cvegb4'); }
 .img4 { background: url('https://bit.ly/3GDQMDc'); }
 .img5 { background: url('https://bit.ly/3brgpsB'); }
@@ -11,5 +11,5 @@
 .img10 { background: url('https://bit.ly/3jQko6s'); }
 
 p {
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
