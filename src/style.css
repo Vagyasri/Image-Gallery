@@ -12,6 +12,7 @@ body {
 .img8 { background: url('https://bit.ly/3Cvegb4'); }
 .img9 { background: url('https://bit.ly/3my3L1h'); }
 .img10 { background: url('https://bit.ly/3jQko6s'); }
+
 p {
   display: flex;
   text-transform: uppercase;
@@ -24,6 +25,14 @@ p {
 
 p:nth-child(2) {
   font-size: 2rem;
+}
+
+p:first-child {
+  transform: translateY(-100%);
+}
+
+p:last-child {
+  transform: translateY(100%);
 }
 
 .gallery {
