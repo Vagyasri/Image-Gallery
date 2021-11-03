@@ -61,7 +61,6 @@ p:nth-child(2) {
 
 .pic.open {
   flex-grow: 10;
-  font-size: 4rem;
 }
 
 .pic > *:first-child {
@@ -72,4 +71,7 @@ p:nth-child(2) {
   transform: translateY(100%);
 }
 
-.pic.open > * { transform: translateY(0); }
+.pic.open > * {
+  transform: translateY(0);
+  font-size: 4rem;
+}
