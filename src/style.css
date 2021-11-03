@@ -73,5 +73,9 @@ p:nth-child(2) {
 
 .pic.open > * {
   transform: translateY(0);
+  font-size: 2rem;
+}
+
+.pic.open > *:nth-child(2) {
   font-size: 4rem;
 }
