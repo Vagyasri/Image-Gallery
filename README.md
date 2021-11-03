@@ -11,7 +11,8 @@ In this Project, I am creating a picture gallery using CSS Flexbox.
 
 ## Screenshot
 
-![Drum](Drum.png) 
+![Gallery](src/Images/1.png)
+![Gallery](src/Images/2.png)
 
 ## Live Demo
 
