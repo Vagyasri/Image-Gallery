@@ -16,7 +16,7 @@ In this Project, I am creating a picture gallery using CSS Flexbox.
 
 ## Live Demo
 
-[Live View!!](https://vagyasri.github.io/Image-Gallery/)
+[Live View!!](https://vagyasri.github.io/Image-Gallery/dist/)
 
 ## Author
 
